@@ -1,0 +1,13 @@
+Summarizing this section, we should note that
+programming a grep equivalent has shown some
+strengths of the Stream API: the solutions for
+the Warlier examples are straightforward,
+and respecifying the problem to simulate
+the different options required only small
+corresponding changes in the code.
+In the last example, we saw how cooperation
+with Java WIO enables the Stream API
+to process input from large files with,
+as we shall see in c6.7, a very high degree
+of parallel speedup.
+
